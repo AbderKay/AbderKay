@@ -58,8 +58,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[ocean-eye-tinyml-nasa](./ocean-eye-tinyml-nasa)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | Python, TinyML, TypeScript |
-| **[automoto-hub-38](https://github.com/AbderKay/automoto-hub-38)** | Automotive platform featuring an integrated intelligent chatbot assistant for vehicle management and customer support. | TypeScript, React, AI Chatbot |
-ervices |
+| **[automoto-hub-38](https://github.com/AbderKay/automoto-hub-38)** | Automotive platform featuring an integrated intelligent chatbot assistant for vehicle management and customer support. | TypeScript, React, AI Chatbot |services |
 | **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling and query optimization system for hospitality management. | SQL,Java, TypeScript, Database,PL/SQL|
 | **[ah-digitalstage-ai-chat](./ah-digitalstage-ai-chat)** | Conversational AI and chatbot integration platform developed during software engineering internship. | Python, AI, Web Services |
 

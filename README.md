@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Abderrahman Kayouh</h1>
+  <h1>👋 Hi, I'm Abderrahman</h1>
   <h3>Machine Learning & Data Engineering Specialist</h3>
 
   <p>
@@ -61,7 +61,7 @@
 <div align="center">
 
 
-<img width="591" height="574" alt="trophet" src="https://github.com/user-attachments/assets/9df37a8d-6bb3-46a7-b48e-7da01072ebd4" />
+<img width="180" height="175" alt="trophet" src="https://github.com/user-attachments/assets/9df37a8d-6bb3-46a7-b48e-7da01072ebd4" />
 
   <br /><br />
 

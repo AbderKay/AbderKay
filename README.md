@@ -60,7 +60,8 @@
 
 <div align="center">
 
-  <img src="trophet.jpeg" alt="NASA Space Apps Challenge 2025 Global Nominee" width="380" />
+
+<img width="591" height="574" alt="trophet" src="https://github.com/user-attachments/assets/9df37a8d-6bb3-46a7-b48e-7da01072ebd4" />
 
   <br /><br />
 

@@ -12,12 +12,12 @@
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
-- 🎓 **Engineering Student** specializing in **Big Data, Data Science, & Artificial Intelligence**.
--  **Core Specialization:** Machine Learning Systems, Data Pipelines (ETL/ELT), and Data Engineering.
--  **Exploring & Practicing:** Applied AI, Deep Learning models, and LLM integrations.
--  **Current Mission:** Practicing daily, building modular ML/Data pipelines, and preparing high-impact portfolio projects.
+• **Background:** Engineering Student specializing in **Big Data, Data Science, & Artificial Intelligence**.
+• **Core Specialization:** Machine Learning Systems, Data Pipelines (ETL/ELT), and Data Engineering.
+• **Exploration & Practice:** Applied AI, Deep Learning models, and LLM integrations.
+• **Current Mission:** Daily practice, building modular ML/Data pipelines, and developing high-impact portfolio projects.
 
 ---
 
@@ -38,9 +38,15 @@
 
 ---
 
-### 📊 GitHub Activity
+### ⚙️ Engineering Principles & Workflow
+
+• **Production-First Code:** Modular, clean Python architectures over raw, unorganized notebooks.
+• **Pipeline Engineering:** Continuous optimization of relational/non-relational queries, automated ETL/ELT workflows, and distributed data processing with PySpark.
+• **ML Lifecycle & MLOps:** Feature store engineering, experiment tracking, and containerizing ML microservices via Docker.
+• **Continuous Learning:** Daily commits focused on data structures, algorithmic efficiency, and real-world data system problems.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats logo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderKay&theme=tokyonight&hide_border=true" height="150" alt="streak logo" />
+  <sub>⚡ Designed & Engineered by Abderrahman Kayouh</sub>
 </div>

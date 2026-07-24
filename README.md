@@ -4,7 +4,7 @@
   <h3>Machine Learning & Data Engineering Specialist</h3>
   <p><i>Building the bridge between high-performance data systems and intelligent AI solutions.</i></p>
   <p>
-    <a href="mailto:abderrahmanekayouh@gmail.com"><img src="https://img.shields.io/badge/Email-abderrahmanekayouh%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:abderrahmankayouh67@gmail.com"><img src="https://img.shields.io/badge/Email-abderrahmanekayouh%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="www.linkedin.com/in/abderrahman-kayouh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 

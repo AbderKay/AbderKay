@@ -3,9 +3,15 @@
   <h1>👋 Hi, I'm Abderrahman</h1>
   <h3>Machine Learning & Data Engineering Specialist</h3>
   <p><i>Building the bridge between high-performance data systems and intelligent AI solutions.</i></p>
+  
   <p>
-    <a href="mailto:abderrahmankayouh67@gmail.com"><img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="www.linkedin.com/in/abderrahman-kayouh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:abderrahmankayouh67@gmail.com">
+      <img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/abderrahman-kayouh">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
   </p>
 
 </div>
@@ -54,13 +60,13 @@
 ---
 
 ### ⭐ Featured Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[ocean-eye-tinyml-nasa](./ocean-eye-tinyml-nasa)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | Python, TinyML, TypeScript |
-| **[automoto-hub-38](https://github.com/AbderKay/automoto-hub-38)** | Automotive platform featuring an integrated intelligent chatbot assistant for vehicle management and customer support. | TypeScript, React, AI Chatbot |services |
-| **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling and query optimization system for hospitality management. | SQL,Java, TypeScript, Database,PL/SQL|
-| **[ah-digitalstage-ai-chat](./ah-digitalstage-ai-chat)** | Conversational AI and chatbot integration platform developed during software engineering internship. | Python, AI, Web Services |
+| **[tomatosort-pro](https://github.com/AbderKay/tomatosort-pro)** | Real-time tomato and foreign-object detection with a YOLOv8 model optimized via OpenVINO, streamed to a live operator dashboard. | Python, YOLOv8, OpenVINO, OpenCV, Streamlit |
+| **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling and query optimization system for hospitality management. | SQL, PL/SQL, Java, TypeScript |
+| **[Auto-Expert](https://github.com/AbderKay/Auto-Expert-)** | Automotive agency platform with online booking, a client area, and an integrated AI chatbot assistant for vehicle management and customer support. | React, TypeScript, Supabase, n8n |
+
 
 
 ---

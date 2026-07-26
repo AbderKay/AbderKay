@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/abderrahman-kayouh">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AbderKay&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
   </p>
 
 </div>

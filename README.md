@@ -62,7 +62,7 @@
 ### ⭐ Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[ocean-eye-tinyml-nasa](./ocean-eye-tinyml-nasa)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | Python, TinyML, TypeScript |
+| **[sharksense](https://github.com/AbderKay/sharksense)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | Python, TinyML, TypeScript |
 | **[tomatosort-pro](https://github.com/AbderKay/tomatosort-pro)** | Real-time tomato and foreign-object detection with a YOLOv8 model optimized via OpenVINO, streamed to a live operator dashboard. | Python, YOLOv8, OpenVINO, OpenCV, Streamlit |
 | **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling and query optimization system for hospitality management. | SQL, PL/SQL, Java, TypeScript |
 | **[Auto-Expert](https://github.com/AbderKay/Auto-Expert-)** | Automotive agency platform with online booking, a client area, and an integrated AI chatbot assistant for vehicle management and customer support. | React, TypeScript, Supabase, n8n |

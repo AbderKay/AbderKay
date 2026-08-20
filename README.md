@@ -123,10 +123,11 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=AbderKay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">

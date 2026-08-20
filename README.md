@@ -1,80 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=200&section=header&text=Abderrahman%20Kayouh&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=58&descAlign=50" width="100%"/>
 
-  <p align="center">
+  <h1>👋 Hi, I'm Abderrahman Kayouh</h1>
+  <h3>AI Engineering • Data Engineering • Data Science</h3>
+  <p><i>"Building AI systems that ship, not just research demos."</i></p>
+  
+  <p>
     <a href="https://abderrahman-kayouh.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/abderrahman-kayouh">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:abderrahmankayouh67@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
-  <h3>🚀 <i>"Building AI systems that ship, not just research demos."</i></h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AbderKay&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
+  </p>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging applied research and production by designing intelligent systems that combine predictive Machine Learning, robust Data Engineering, and Agentic LLM solutions.
-
-- 🎓 **Specialization**: Big Data, Data Science, and Artificial Intelligence.
-- 🎯 **PFE Availability**: **Open to a PFE internship starting January 2027** — *AI Engineering, Data Engineering, Data Science, or Data Analysis* (Open to relocation).
-- 🏆 **Achievements**: NASA Space Apps Challenge 2025 Global Nominee | Former Junior Enterprise (JEEA) President.
-- 💬 **Ask me about**: RAG pipelines, predictive modeling, ETL design, model serving, and LLMOps.
+- 🎓 **Background:** Engineering Student (Master's @ **ENSA Agadir**, 2024–2027) specializing in **Big Data, Data Science, & Artificial Intelligence**.
+- 💼 **PFE Search:** **Open to a PFE internship starting January 2027** — *AI Engineering, Data Engineering, Data Science, or Data Analysis* (Open to relocation).
+- ⚙️ **Core Focus:** Bridging applied research and production with predictive Machine Learning, Agentic RAG / LLM systems, and end-to-end data pipelines.
+- 👥 **Leadership:** Former President of Junior Entreprise JEEA (led high-performing engineering teams).
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🏆 Achievements & Recognition
 
-<div align="left">
+<div align="center">
 
-#### 🧠 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=flat-square)
+  <img width="190" alt="NASA Space Apps Trophy" src="https://github.com/user-attachments/assets/9df37a8d-6bb3-46a7-b48e-7da01072ebd4" />
 
-#### 🗄️ Data Engineering & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-Vector%20DB-336791?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL%20%2F%20PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+  <br /><br />
 
-#### ⚙️ MLOps, Backend & Automation
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D28D9?style=flat-square&logo=make&logoColor=white)
-![Linux / Bash](https://img.shields.io/badge/Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
+  <h4>🚀 <b>NASA International Space Apps Challenge 2025</b></h4>
+  <p><b>Global Nominee & Local Winner</b> — Awarded for <i>SharkSense / Ocean Eye</i><br>
+  <sub>Embedded TinyML edge classification & NASA SWOT/PACE satellite data analysis for marine habitat monitoring</sub></p>
 
 </div>
 
 ---
 
-### 🔬 Highlighted Projects
+### 🛠️ Tech Stack & Tools
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Vala Bleu Ops Copilot** | Multilingual Agentic RAG assistant with local LLM GPU inference & server-log anomaly detection. | `FastAPI` `LangChain` `pgvector` `Docker` `RAGAS` |
-| **TomatoSort Pro** | Real-time computer vision system for agricultural defect detection and automated quality sorting. | `Python` `OpenCV` `Deep Learning` `Flask` |
-| **NASA Ocean Data Predictor** | Predictive ML system analyzing marine environmental indicators (NASA Space Apps Global Nominee). | `Scikit-Learn` `Pandas` `ETL` `Streamlit` |
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🧠 Machine Learning, AI & LLMs
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 🗄️ Data Engineering, Databases & BI
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/PGVECTOR-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### ⚙️ Backend, MLOps & DevOps
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+### ⭐ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[sharksense](https://github.com/AbderKay/sharksense)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | `Python` `TinyML` `TypeScript` `Satellite Data` |
+| **[tomatosort-pro](https://github.com/AbderKay/tomatosort-pro)** | Real-time tomato and foreign-object detection with a YOLOv8 model optimized via OpenVINO, streamed to a live operator dashboard. | `Python` `YOLOv8` `OpenVINO` `OpenCV` `Streamlit` |
+| **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling, query optimization, and transaction management system for hospitality operations. | `SQL` `PL/SQL` `Java` `TypeScript` |
+| **[Auto-Expert](https://github.com/AbderKay/Auto-Expert-)** | Automotive platform with booking management, client area, and an integrated AI chatbot assistant for vehicle customer support. | `React` `TypeScript` `Supabase` `n8n` |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
@@ -84,6 +107,6 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ---
 
 <div align="center">
-  <sub>Let's connect and build something impactful together!</sub><br>
-  <a href="https://abderrahman-kayouh.vercel.app/">Explore Full Portfolio ↗</a>
+  <sub>⭐ Thanks for visiting!</sub><br />
+  <sub><b>"Data is noise. Engineering is signal. Machine Learning is vision."</b></sub>
 </div>

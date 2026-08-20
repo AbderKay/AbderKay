@@ -25,7 +25,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 - 🎓 **Specialization**: Big Data, Data Science, and Artificial Intelligence.
 - 🎯 **PFE Availability**: **Open to a PFE internship starting January 2027** — *AI Engineering, Data Engineering, Data Science, or Data Analysis* (Open to relocation).
 - 🏆 **Achievements**: NASA Space Apps Challenge 2025 Global Nominee | Former Junior Enterprise (JEEA) President.
-- 💬 **about more**: RAG pipelines, predictive modeling, ETL design, model serving, and LLMOps.
+- 💬 **About more**: RAG pipelines, predictive modeling, ETL design, model serving, and LLMOps.
 
 ---
 
@@ -61,12 +61,13 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
   <br /><br />
 
   <p><b>Data Engineering, Databases & Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Data & Databases" />
-  </a>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Data & Databases" />
+    </a>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Oracle-Light.svg" width="48" height="48" alt="Oracle SQL Developer" style="vertical-align: middle; margin-left: 6px;" />
+  </div>
   <br />
-  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer" />
-  <br /><br />
 
   <p><b>DevOps, Workflow & Tools</b></p>
   <a href="https://skillicons.dev">
@@ -92,9 +93,10 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 #### 🗄️ Data Engineering & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20DB-336791?style=flat-square)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-4B6E4E?style=flat-square&logo=oracle&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 

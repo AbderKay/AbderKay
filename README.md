@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=200&section=header&text=Abderrahman%20Kayouh&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=Abderrahman%20Kayouh&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
 
   <p align="center">
     <a href="https://abderrahman-kayouh.vercel.app/">
@@ -113,6 +113,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[vala-bleu-ops-copilot](https://github.com/AbderKay/vala-bleu-ops-copilot)** | Multilingual FR/EN Agentic RAG system with server-log anomaly detection & 100% on-prem local GPU LLM inference. | `FastAPI` `LangChain` `pgvector` `Docker` `RAGAS` |
 | **[sharksense](https://github.com/AbderKay/sharksense)** | Real-time shark behavior classification using on-device TinyML combined with NASA SWOT & PACE satellite data for habitat suitability modeling. | `Python` `TinyML` `TypeScript` `Satellite Data` |
 | **[tomatosort-pro](https://github.com/AbderKay/tomatosort-pro)** | Real-time tomato and foreign-object detection with a YOLOv8 model optimized via OpenVINO, streamed to a live operator dashboard. | `Python` `YOLOv8` `OpenVINO` `OpenCV` `Streamlit` |
 | **[hotel_DB](https://github.com/mohamed215686/hotel_DB)** | Relational database modeling, query optimization, and transaction management system for hospitality operations. | `SQL` `PL/SQL` `Java` `TypeScript` |
@@ -123,11 +124,12 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=AbderKay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
 
 <div align="center">

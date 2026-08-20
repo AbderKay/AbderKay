@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=Abderrahman%20Kayouh&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,30:134074,60:0077B6,85:00B4D8,100:90E0EF&height=200&section=header&text=Abderrahman%20Kayouh&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
 
   <p align="center">
     <a href="https://abderrahman-kayouh.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0077B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/abderrahman-kayouh">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:abderrahmankayouh67@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-abderrahmankayouh67%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
@@ -25,7 +25,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 - 🎓 **Specialization**: Big Data, Data Science, and Artificial Intelligence.
 - 🎯 **PFE Availability**: **Open to a PFE internship starting January 2027** — *AI Engineering, Data Engineering, Data Science, or Data Analysis* (Open to relocation).
 - 🏆 **Achievements**: NASA Space Apps Challenge 2025 Global Nominee | Former Junior Enterprise (JEEA) President.
-- 💬 **Ask me about**: RAG pipelines, predictive modeling, ETL design, model serving, and LLMOps.
+- 💬 **about more**: RAG pipelines, predictive modeling, ETL design, model serving, and LLMOps.
 
 ---
 
@@ -60,10 +60,12 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
   </a>
   <br /><br />
 
-  <p><b>Data Engineering, Cloud & Databases</b></p>
+  <p><b>Data Engineering, Databases & Tools</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Data & Databases" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer" />
   <br /><br />
 
   <p><b>DevOps, Workflow & Tools</b></p>
@@ -90,7 +92,8 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 #### 🗄️ Data Engineering & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20DB-336791?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL%20%2F%20PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -124,7 +127,6 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbderKay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=AbderKay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

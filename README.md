@@ -60,14 +60,11 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
   </a>
   <br /><br />
 
-  <p><b>Data Engineering, Databases & Tools</b></p>
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Data & Databases" />
-    </a>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Oracle-Light.svg" width="48" height="48" alt="Oracle SQL Developer" style="vertical-align: middle; margin-left: 6px;" />
-  </div>
-  <br />
+  <p><b>Data Engineering, Cloud & Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Data & Databases" />
+  </a>
+  <br /><br />
 
   <p><b>DevOps, Workflow & Tools</b></p>
   <a href="https://skillicons.dev">
@@ -93,7 +90,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 #### 🗄️ Data Engineering & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20DB-336791?style=flat-square)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-4B6E4E?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/SQL_Developer-4B7C4B?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)

@@ -128,7 +128,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AbderKay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbderKay&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Abderrahman's GitHub Activity Graph" />
 </div>
 
 ---

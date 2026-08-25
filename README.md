@@ -122,26 +122,15 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 | **[Auto-Expert](https://github.com/AbderKay/Auto-Expert-)** | Automotive platform with booking management, client area, and an integrated AI chatbot assistant for vehicle customer support. | `React` `TypeScript` `Supabase` `n8n` |
 
 ---
-
 ### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+</p>
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
- height="160"
- alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
- src="https://streak-stats.demolab.com?user=AbderKay&theme=tokyonight&hide_border=true"
- height="180"
- alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbderKay&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
 
 
 

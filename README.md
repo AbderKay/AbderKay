@@ -124,28 +124,35 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ---
 
 
-### 🛠️ Tech Stack
+### 📊 GitHub Activity & Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-</p>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontFamily': 'sans-serif' }}}%%
+quadrantChart
+    title Technical Stack Proficiency & Focus
+    x-axis Low Experience --> High Experience
+    y-axis Secondary Focus --> Core Focus
+    quadrant-1 Core Production Tools
+    quadrant-2 Deep Specialization
+    quadrant-3 Exploring
+    quadrant-4 Solid Foundations
+    "Python": [0.92, 0.95]
+    "PyTorch": [0.85, 0.90]
+    "TensorFlow": [0.80, 0.78]
+    "PostgreSQL / pgvector": [0.75, 0.82]
+    "Docker": [0.70, 0.65]
+    "FastAPI": [0.72, 0.68]
+```
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbderKay&theme=tokyonight&no-frame=true&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbderKay&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+xychart-beta
+    title "Commit & Contribution Timeline (Last 12 Months)"
+    x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26"]
+    y-axis "Contributions" 0 --> 120
+    bar [15, 28, 45, 110, 35, 60, 52, 85, 40, 78]
+    line [15, 28, 45, 110, 35, 60, 52, 85, 40, 78]
+```
 
 
 ---

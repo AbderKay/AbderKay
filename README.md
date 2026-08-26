@@ -122,6 +122,8 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 | **[Auto-Expert](https://github.com/AbderKay/Auto-Expert-)** | Automotive platform with booking management, client area, and an integrated AI chatbot assistant for vehicle customer support. | `React` `TypeScript` `Supabase` `n8n` |
 
 ---
+
+
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -129,7 +131,7 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbderKay&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbderKay&theme=tokyo-night&hide_border=true" width="100%" alt="Abderrahman's GitHub Activity Graph" />
 </p>
 
 

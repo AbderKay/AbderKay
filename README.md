@@ -124,16 +124,16 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ---
 
 
+
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbderKay&theme=tokyo-night&hide_border=true" width="100%" alt="Abderrahman's GitHub Activity Graph" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbderKay&theme=tokyo-night&hide_border=true)
+
+</div>
 
 
 ---

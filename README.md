@@ -123,38 +123,13 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 
 ---
 
+### 📊 GitHub Activity
 
-### 📊 GitHub Activity & Tech Stack
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontFamily': 'sans-serif' }}}%%
-quadrantChart
-    title Technical Stack Proficiency & Focus
-    x-axis Low Experience --> High Experience
-    y-axis Secondary Focus --> Core Focus
-    quadrant-1 Core Production Tools
-    quadrant-2 Deep Specialization
-    quadrant-3 Exploring
-    quadrant-4 Solid Foundations
-    "Python": [0.92, 0.95]
-    "PyTorch": [0.85, 0.90]
-    "TensorFlow": [0.80, 0.78]
-    "PostgreSQL / pgvector": [0.75, 0.82]
-    "Docker": [0.70, 0.65]
-    "FastAPI": [0.72, 0.68]
-```
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-xychart-beta
-    title "Commit & Contribution Timeline (Last 12 Months)"
-    x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26"]
-    y-axis "Contributions" 0 --> 120
-    bar [15, 28, 45, 110, 35, 60, 52, 85, 40, 78]
-    line [15, 28, 45, 110, 35, 60, 52, 85, 40, 78]
-```
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbderKay/AbderKay/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbderKay/AbderKay/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/AbderKay/AbderKay/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 ---
 
 <div align="center">

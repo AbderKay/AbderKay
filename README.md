@@ -124,16 +124,28 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
 ---
 
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+</p>
+
+---
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbderKay&theme=tokyonight&no-frame=true&column=6" alt="Trophies" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderKay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbderKay&theme=tokyo-night&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AbderKay&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 
 ---

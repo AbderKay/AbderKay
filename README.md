@@ -130,10 +130,11 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbderKay/AbderKay/output/github-contribution-grid-snake.svg">
   <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/AbderKay/AbderKay/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbderKay&theme=github
 ---
 
 <div align="center">
   <sub>Let's connect and build something impactful together!</sub><br>
   <a href="https://abderrahman-kayouh.vercel.app/">Explore Full Portfolio ↗</a>
 </div>
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VOTRE_USERNAME&theme=github)
+

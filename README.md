@@ -136,3 +136,4 @@ I am an engineering student (Master's @ **ENSA Agadir**, 2024–2027) bridging a
   <sub>Let's connect and build something impactful together!</sub><br>
   <a href="https://abderrahman-kayouh.vercel.app/">Explore Full Portfolio ↗</a>
 </div>
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VOTRE_USERNAME&theme=github)
